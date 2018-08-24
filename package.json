@@ -1,0 +1,19 @@
+{
+  "name": "starioplugin",
+  "version": "1.0.0",
+  "description": "Phonegap plugin for Star Micronics bluetooth printers. It works with Android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzahio/StarIOPlugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzahio/StarIOPlugin/issues"
+  },
+  "homepage": "https://github.com/hamzahio/StarIOPlugin#readme"
+}
